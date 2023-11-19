@@ -1,3 +1,47 @@
+Overview:
+This is a Todo app for those people who want to keep their work records to perform in the future. Here is the advantage of this app is, you can add your todo by priority wise. Where the priority is divided by the distinct color's, so you can get your task by the priority easily.
+
+----------------
+Technologies Used:
+
+Npm package
+React Js Library
+JsonForms Library
+CSS
+Bootstarp Css Library
+
+--------------
+Prerequisites:
+
+Node js
+React js
+JsonForms Library
+
+Firstly You have to check is node installed on your system or not, if not installed then install node on your local machine and then you have to install the react app by using npm/yarn. Then you can go for the installation through the below instruction
+
+--------------
+Getting Started:
+
+After dowanload the zip file from github You have to install some dependencies to start this app on your local machine.
+
+1. 1st You have to run a command by entering the app folder and then run this command (npm install) on your machine to get the node module file.It will install all the dependencies which is used in the app.
+2. Dependencies is installed please verify:-
+
+    @jsonforms/core
+    @jsonforms/material-renderers
+    @jsonforms/react
+    @emotion/styled
+    @emotion/react
+    @mui/icons-material
+
+after install the dependencies you can run the app by using command npm start
+-------------
+Usage
+
+By using this app you can use for your daily todo task's and you can keep the record of your task. You can select the task if completed by using complete option. You can set the task by priority using distinct color's to find quickly. you can add multiple task's by using add task. If it marked completed by mistakely you can undo it also. You can delete also if you don't want the completed task on your screen.
+
+
+------------------------********************************------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
